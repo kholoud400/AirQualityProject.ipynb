@@ -92,3 +92,13 @@ The final trained model was saved using `joblib`:
 
 ```python
 joblib.dump(best_model, "aqi_best_model.pkl")
+
+
+## Dataset and Model
+
+Due to file size limitations, the dataset and trained model are hosted on Google Drive.
+
+Dataset: [https://drive.google.com/drive/folders/1QI09-6AX2GUJMclS_QRlQ-bN0QBfrVfR]
+
+Trained Model: [https://drive.google.com/drive/folders/1QI09-6AX2GUJMclS_QRlQ-bN0QBfrVfR]
+## Google drive link : [https://drive.google.com/drive/folders/1QI09-6AX2GUJMclS_QRlQ-bN0QBfrVfR]
